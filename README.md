@@ -8,17 +8,6 @@
 
 <p>We use this dataset to evaluate the effectiveness of anomaly detection methods to classify illicit transactions, reproduce supervised learning classification method employed in previous studies, including AL, and evaluate the performance of a modification to the AL method that uses the network graph to aid in selecting datapoints.</p>
 
-<h4> Links to Data set and Data dictionary</h4>
-<ul><li>The datasets are available for public use under <a href='https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html'>census.gov</a> website as weekly files.</li>
-<li>Data dictionary is available in the census.gov website under the link <a href='https://www.census.gov/programs-surveys/household-pulse-survey/technical-documentation.html#phase1'>Phase 1 Household Pulse Survey Technical Documentation.</a> It has also been added to the repository. Please refer to repository structure for pulse2020_data_dictionary.xlsx</li></ul>
-
-<h4>Download data</h4>
-<p>Data is directly downloaded from census website using python modules. Refer to the data_cleaning.ipynb for detailed downloading steps<p>
-  
-<h4>Terms of use of census data </h4>
-<p>The Census Bureau is committed to open government by sharing its public data as open data. Census data continues to be a key national resource, serving as a fuel for entrepreneurship and innovation, scientific discovery, and commercial activity.  We continuously identify and publish datasets and Application Programming Interface’s (API’s) to Data.gov in accordance with the Office of Management and Budget (OMB) Memorandum M-10-06, the Executive Order 13642 on open data, and the overall principles outlined in the Digital Government Strategy.  In
- accordance with the Open Data Policy, M-13-13, the Census Bureau publishes its information in machine-readable formats while also safeguarding privacy and security.</p>
-
 <h3>Repository structure</h3>
 
 ```
