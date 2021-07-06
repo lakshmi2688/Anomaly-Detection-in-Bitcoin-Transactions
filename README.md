@@ -13,6 +13,7 @@
 ```
 ├── README.md
 ├── LICENSE
+├── writeup.pdf
 ├── data
 ├── images
 ├── notebooks
