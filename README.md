@@ -38,3 +38,6 @@ The following Python packages were used and their documentation can be found at 
 * [IPython](https://ipython.org/)
 * [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
+
+<h3>Detailed report</h3>
+https://github.com/lakshmi2688/Illicit-transactions-detection-in-Bitcoin-system/blob/main/Illicit_transactions_detection_in_the_Bitcoin_blockchain.pdf
